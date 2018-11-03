@@ -1,0 +1,1 @@
+{"test_error": 0.013, "learn_rate": 0.001, "dropout": 0.25, "ticker": "XOM", "epoch": 100, "window_size": 7, "train_error": 0.0103}

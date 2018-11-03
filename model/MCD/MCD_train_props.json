@@ -1,0 +1,1 @@
+{"test_error": 0.0041, "learn_rate": 0.001, "dropout": 0.25, "ticker": "MCD", "epoch": 200, "window_size": 10, "train_error": 0.0023}

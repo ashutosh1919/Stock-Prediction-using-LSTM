@@ -1,0 +1,1 @@
+{"test_error": 0.0042, "learn_rate": 0.01, "dropout": 0.25, "ticker": "JPM", "epoch": 100, "window_size": 7, "train_error": 0.0026}

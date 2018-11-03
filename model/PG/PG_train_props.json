@@ -1,0 +1,1 @@
+{"test_error": 0.01, "learn_rate": 0.001, "dropout": 0.25, "ticker": "PG", "epoch": 200, "window_size": 5, "train_error": 0.0046}

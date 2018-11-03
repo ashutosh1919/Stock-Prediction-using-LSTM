@@ -1,0 +1,1 @@
+{"test_error": 0.0055, "learn_rate": 0.001, "dropout": 0.25, "ticker": "CAT", "epoch": 200, "window_size": 7, "train_error": 0.003}
