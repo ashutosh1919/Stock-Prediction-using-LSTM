@@ -5,7 +5,7 @@ The data considered here is of 2 years for all companies. From (1 Nov,2016) to (
 The list of Companies for which we are downloading the data is stored in csv file in data directory
 as "dow30.csv".
 
-![List of Companies for Analysis](https://github.com/ashutosh1919/Stock-Prediction-using-LSTM/tree/master/images/companies.PNG)
+![List of Companies for Analysis](images/companies.PNG)
 
 I have developed the code in following steps:
 (1) I have developed the python file downloader.py in data_fetcher directory which 
